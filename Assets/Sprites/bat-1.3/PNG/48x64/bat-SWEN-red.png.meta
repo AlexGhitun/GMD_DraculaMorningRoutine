@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bat-SWEN-red_0: -10758670376446483
+      bat-SWEN-red_1: 8296513937573352532
+      bat-SWEN-red_10: 3586759349396826008
+      bat-SWEN-red_11: -2985262467773229056
+      bat-SWEN-red_2: 1374458325781759333
+      bat-SWEN-red_3: 3017727284035064877
+      bat-SWEN-red_4: -1485783391795609164
+      bat-SWEN-red_5: 7643334456007657314
+      bat-SWEN-red_6: -2758135698796158794
+      bat-SWEN-red_7: 1752492395051270279
+      bat-SWEN-red_8: 495632888957873596
+      bat-SWEN-red_9: 3215261576390021812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

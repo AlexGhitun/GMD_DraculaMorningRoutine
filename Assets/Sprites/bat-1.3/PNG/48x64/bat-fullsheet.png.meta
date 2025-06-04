@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bat-fullsheet_0: 5660871419543494905
+      bat-fullsheet_1: 5941749759004283362
+      bat-fullsheet_10: 5031753552333449902
+      bat-fullsheet_11: -1212898984033201284
+      bat-fullsheet_12: 3257828562533495071
+      bat-fullsheet_13: 4398087299601082784
+      bat-fullsheet_14: -5294790260569837027
+      bat-fullsheet_15: 4688954143593564182
+      bat-fullsheet_16: 6230514548315601344
+      bat-fullsheet_17: 8631732956375941994
+      bat-fullsheet_18: -412005756090097936
+      bat-fullsheet_19: -8061527564812556460
+      bat-fullsheet_2: 5352111596610867467
+      bat-fullsheet_20: -5565628907634735446
+      bat-fullsheet_21: -7713685662673946177
+      bat-fullsheet_22: 5209691205355560691
+      bat-fullsheet_23: -6717267951659321278
+      bat-fullsheet_3: 3502395533986814872
+      bat-fullsheet_4: 2492888584583756711
+      bat-fullsheet_5: -6631824703631107858
+      bat-fullsheet_6: 9001191246415596818
+      bat-fullsheet_7: -1678751878299469379
+      bat-fullsheet_8: 1053969635785802984
+      bat-fullsheet_9: 1097269212500267658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
