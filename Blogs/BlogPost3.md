@@ -4,7 +4,7 @@ During this phase of development, I completed the core player movement mechanics
 
 A significant portion of the work went into sourcing suitable assets for the environment and designing a demo area set within a castle. This included implementing a camera system that transitions smoothly from one room to another. The transition is triggered by invisible checkpoints placed between rooms, which detect when the player passes through.
 
-I also began working on traps that, upon collision with the player, trigger a death animation and disable player input. This ensures that the character remains motionless after dying. Since a respawn system hasn’t been implemented yet, the player is currently unable to regain control after dying — addressing this will be a priority moving forward.
+I also began working on traps that, upon collision with the player, trigger a death animation and disable player input. This ensures that the player cannot move the character after dying. Since a respawn system hasn’t been implemented yet, the player is currently unable to regain control after dying — addressing this will be a priority moving forward.
 
 One of the more challenging aspects was fine-tuning the camera movement. Initially, the camera would overshoot its target position, making it difficult for players to see both their character and the full room clearly. After some tweaking — including repositioning the rooms and adjusting the camera script — I managed to resolve the issue and achieve the intended behavior.
 
