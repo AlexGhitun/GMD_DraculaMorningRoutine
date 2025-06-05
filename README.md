@@ -2,6 +2,8 @@
 
 ### Roll-a-ball blog post(03/03/2025)
 
+Link to the roll-a-ball game: https://github.com/AlexGhitun/GMD.git
+
 This project is the first assignment received from the GMD course which involves following the Unity tutorial for creating a game where the player is the ball and tries to get collectibles while avoiding enemies.
 This being the first time I use Unity it took not that much time to get used to its functionalities and to start understanding its capabilities. Overall I am excited about the posibilities of creating games and trying new things to see how the engine runs.
 
