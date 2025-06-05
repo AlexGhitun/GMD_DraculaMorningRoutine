@@ -1,6 +1,11 @@
 [#1: Roll-a-ball](Blogs/BlogPost1.md)
+
 [#2: Game Design Document & Milestones](Blogs/BlogPost2.md)
+
 [#3: Development update 1](Blogs/BlogPost3.md)
+
 [#4: Development update 2](Blogs/BlogPost4.md)
+
 [#5: Development update 3](Blogs/BlogPost5.md)
+
 [#6: Final update](Blogs/BlogPost6.md)
