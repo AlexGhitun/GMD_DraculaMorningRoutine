@@ -44,10 +44,11 @@ Shrines for refreshing the player's ability to dash
 
 UI(should include dash ability availability, timer for level)
 
-First game draft:
-
-![Alt text](Images/FirstGameDraft.png)
-
 Main menu and pause screen
 
 OST/Sound effects to add to the game
+
+
+First game draft:
+
+![Alt text](Images/FirstGameDraft.png)
