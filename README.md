@@ -1,4 +1,8 @@
+### Youtube video demonstration:
+
 Link to YouTube video demonstration:
+
+### Blog posts:
 
 [#1: Roll-a-ball](Blogs/BlogPost1.md)
 
@@ -12,6 +16,7 @@ Link to YouTube video demonstration:
 
 [#6: Final update](Blogs/BlogPost6.md)
 
+### Assets and tutorial used for making the game:
 Link to assets:
 Player and enemy character sprite: https://craftpix.net/freebies/free-vampire-pixel-art-sprite-sheets/?srsltid=AfmBOoqHT45K6wRmtDp9aXbctYeRnGgSeaqBAFUsaX2yvrl807BiU4ps
 
